@@ -1,7 +1,7 @@
 name,code,offers
 Italy,ITA,48
 United Kingdom,GBR,409
-Germany,DEU,580
+Germany,DEU,487
 Spain,ESP,57
 Portugal,PRT,32
 France,FRA,146
@@ -10,3 +10,5 @@ Ireland,IRL,16
 Greater Zurich Area,CHE,151
 Denmark,DNK,64
 Belgium,BEL,65
+Austria,AUT,58
+Luxembourg,LUX,49
