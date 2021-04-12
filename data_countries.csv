@@ -1,8 +1,14 @@
-country,results
-Italy,1000000
-United Kingdom,10000000
-Germany,487
-Spain,57
-Portugal,32
-France,146
-Netherlands,104
+name,code,offers
+Italy,ITA,51
+United Kingdom,GBR,409
+Germany,DEU,578
+Spain,ESP,58
+Portugal,PRT,32
+France,FRA,148
+Netherlands,NLD,108
+Ireland,IRL,15
+Greater Zurich Area,CHE,155
+Denmark,DNK,60
+Belgium,BEL,62
+Austria,AUT,56
+Luxembourg,LUX,53
